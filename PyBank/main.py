@@ -1,7 +1,7 @@
 import csv
 import os
-csvpath = os.path.join("..",'Resources','budget_data.csv')
-outpath = "output.txt"
+csvpath = os.path.join('Resources','budget_data.csv')
+outpath = "Analysis\output.txt"
 
 total_profitloss = 0
 date = [0]

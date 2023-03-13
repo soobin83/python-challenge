@@ -1,7 +1,7 @@
 import csv
 import os
-csvpath = os.path.join("..",'Resources','election_data.csv')
-outpath = "output.txt"
+csvpath = os.path.join('Resources','election_data.csv')
+outpath = "Analysis\output.txt"
 
 print("Election Results")
 print("---------------------------------")
